@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libln_config.so -o libln_config.so CMakeFiles/ln_config.dir/src/lnconfig.cpp.o 
